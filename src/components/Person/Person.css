@@ -1,5 +1,5 @@
 .profile-card{
-    background-color: #69e496;
+    background-color: #9df0bb;
     border-radius: 20px;
     max-width: 250px;
     padding: 25px;
@@ -21,4 +21,20 @@ p{
 }
 h3{
     color: rgb(57, 120, 255);
+}
+.hire-btn{
+    background-color: #e4c04d;
+    width: 130px;
+    height: 30px;
+    border: 1px solid #b6922f;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.social-icon{
+    display: flex;
+    background-color: transparent;
+}
+.icon{
+    margin-right: 20%;
+    
 }
