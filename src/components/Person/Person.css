@@ -1,0 +1,24 @@
+.profile-card{
+    background-color: #69e496;
+    border-radius: 20px;
+    max-width: 250px;
+    padding: 25px;
+    margin-bottom: 20px;  
+    
+}
+.profile-card:hover{
+    background-color: #6df8a0;
+}
+.profile-card img{
+    max-height: 200px;
+    border-radius: 50px;
+    text-align: center;
+    margin-left: 20%;
+    
+}
+p{
+    font-weight: 500;
+}
+h3{
+    color: rgb(57, 120, 255);
+}
