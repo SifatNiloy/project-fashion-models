@@ -17,9 +17,6 @@ const Profile = () => {
         if (cart.indexOf(profile) === -1) {
             const newCart = [...cart, profile];
             setCart(newCart);
-            for (var i = 0; i < newCart.length; i++) {
-                // console.log(newCart[i].name);
-            }
         }
         else {
             alert("you can't hire same model 2 times");
