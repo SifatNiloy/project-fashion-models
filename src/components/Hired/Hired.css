@@ -4,8 +4,16 @@
 .hired-models{
     margin-top: 30%;
 }
-.models{
+
+.selected-img{
+    max-width: 35px;
+    border-radius: 10px;
+    margin-right: 5%;
+    
+}
+.selected-profile{
     background-color: bisque;
-    padding: 10px;
+    display: flex;
+    margin-bottom: 5%;
     border-radius: 10px;
 }
