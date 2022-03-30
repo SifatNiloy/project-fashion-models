@@ -1,5 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import Cart from '../Cart/Cart';
+import Hired from '../Hired/Hired';
+
 import Person from '../Person/Person';
 import './Profile.css'
 
@@ -12,8 +14,16 @@ const Profile = () => {
             .then(data => setProfiles(data));
     }, [])
     const handleTotal = (profile) => {
-        const newCart = [...cart, profile];
-        setCart(newCart);
+        if (cart.indexOf(profile) === -1) {
+            const newCart = [...cart, profile];
+            setCart(newCart);
+            for (var i = 0; i < newCart.length; i++) {
+                // console.log(newCart[i].name);
+            }
+        }
+        else {
+            alert("you can't hire same model 2 times");
+        }
     }
 
     return (
@@ -22,6 +32,8 @@ const Profile = () => {
                 {
                     profiles.map(profile => <Person
                         profile={profile}
+                        key={profile.id}
+
                         handleTotal={handleTotal}>
 
                     </Person>)
@@ -29,7 +41,12 @@ const Profile = () => {
             </div>
             <div className="cart-container">
                 <Cart cart={cart}></Cart>
+                <div>
+                    <Hired cart={cart}></Hired>
+                </div>
+
             </div>
+
 
 
         </div>

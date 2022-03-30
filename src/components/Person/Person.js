@@ -4,6 +4,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faYoutube, faHireAHelper, faFacebook, faTwitter } from '@fortawesome/free-brands-svg-icons'
 import './Person.css'
 
+
 const Person = (props) => {
     // console.log(props)
     const { name, image, age, email, experience, gender, phone, salary } = props.profile;
@@ -14,7 +15,7 @@ const Person = (props) => {
     return (
         <div className='profile-card'>
             <img src={image} alt="" />
-            <h3>Name: {name}</h3>
+            <h3 className='name'>Name: {name}</h3>
             <p>age:{age}</p>
             <p> email:{email}</p>
             <p>experience: {experience}</p>
@@ -27,7 +28,9 @@ const Person = (props) => {
                 <h1 className='icon'> <a href="http://www.twitter.com">{twitter}</a></h1>
             </div>
             <button onClick={() => props.handleTotal(props.profile)} className='hire-btn'> {hire} <b>Hire now</b> </button>
+
         </div>
+
     );
 };
 

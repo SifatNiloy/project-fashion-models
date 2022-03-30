@@ -1,7 +1,7 @@
 [
     {
         "id": "1",
-        "salary": 4000,
+        "salary": 9000,
         "image": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80",
         "age": 25,
         "name": "Ayouni Houst",
@@ -12,7 +12,7 @@
     },
     {
         "id": "2",
-        "salary": 3300,
+        "salary": 7300,
         "image": "https://images.unsplash.com/photo-1517841905240-472988babdf9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
         "age": 24,
         "name": "Toa Heftiba",
@@ -23,7 +23,7 @@
     },
     {
         "id": "3",
-        "salary": 1200,
+        "salary": 6200,
         "image": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
         "age": 23,
         "name": "Ian dooly",
@@ -34,7 +34,7 @@
     },
     {
         "id": "4",
-        "salary": 6600,
+        "salary": 8600,
         "image": "https://images.unsplash.com/photo-1536243298747-ea8874136d64?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
         "age": 29,
         "name": "Ivana kajina",
@@ -45,7 +45,7 @@
     },
     {
         "id": "5",
-        "salary": 7800,
+        "salary": 11800,
         "image": "https://images.unsplash.com/photo-1492288991661-058aa541ff43?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
         "age": 32,
         "name": "Elija Hayet",
@@ -56,7 +56,7 @@
     },
     {
         "id": "6",
-        "salary": 8500,
+        "salary": 10500,
         "image": "https://images.unsplash.com/photo-1464863979621-258859e62245?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=386&q=80",
         "age": 27,
         "name": "Cresnau kinla",
@@ -67,7 +67,7 @@
     },
     {
         "id": "7",
-        "salary": 2800,
+        "salary": 11000,
         "image": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
         "age": 27,
         "name": "Albert Dera",
@@ -78,7 +78,7 @@
     },
     {
         "id": "8",
-        "salary": 2100,
+        "salary": 9100,
         "image": "https://images.unsplash.com/photo-1519764622345-23439dd774f7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
         "age": 30,
         "name": "Stephene Nakigawa",
@@ -89,7 +89,7 @@
     },
     {
         "id": "9",
-        "salary": 9000,
+        "salary": 9500,
         "image": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
         "age": 37,
         "name": "Ali Morshedeu",
@@ -100,7 +100,7 @@
     },
     {
         "id": "10",
-        "salary": 4250,
+        "salary": 6850,
         "image": "https://images.unsplash.com/photo-1567784177951-6fa58317e16b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
         "age": 29,
         "name": "Nate Mortran",
@@ -111,7 +111,7 @@
     },
     {
         "id": "11",
-        "salary": 4500,
+        "salary": 8800,
         "image": "https://images.unsplash.com/photo-1480429370139-e0132c086e2a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=388&q=80",
         "age": 34,
         "name": "Janko Feric",
@@ -133,7 +133,7 @@
     },
     {
         "id": "13",
-        "salary": 2000,
+        "salary": 13000,
         "image": "https://images.unsplash.com/photo-1611608822650-925c227ef4d2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80",
         "age": 24,
         "name": "Derek Mackkinly",
@@ -144,7 +144,7 @@
     },
     {
         "id": "14",
-        "salary": 2800,
+        "salary": 6800,
         "image": "https://images.unsplash.com/photo-1552642986-ccb41e7059e7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
         "age": 29,
         "name": "Arrul Linn",
@@ -155,7 +155,7 @@
     },
     {
         "id": "15",
-        "salary": 5600,
+        "salary": 13600,
         "image": "https://images.unsplash.com/photo-1579987102269-ac45dafda12c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=486&q=80",
         "age": 23,
         "name": "Meisam Jharakhar",
