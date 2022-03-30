@@ -12,10 +12,10 @@ const Cart = (props) => {
     }
 
     return (
-        <div>
+        <div className='cart-top'>
 
             <h4>Hired models:{props.cart.length} </h4>
-            <h4>Total Cost: {total}</h4>
+            <h4>Total Cost: ${total}</h4>
 
         </div>
     );

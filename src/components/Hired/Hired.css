@@ -1,6 +1,4 @@
-.hired{
-    margin-top: 15%;
-}
+
 .hired-models{
     margin-top: 30%;
 }
@@ -12,7 +10,7 @@
     
 }
 .selected-profile{
-    background-color: bisque;
+    background-color: rgb(252, 218, 176);
     display: flex;
     margin-bottom: 5%;
     border-radius: 10px;
